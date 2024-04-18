@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:title="Белый"
+        android:id="@+id/preferences" />
+    <item
+        android:title="Синий"
+        android:id="@+id/second" />
+    <item
+        android:title="Красный"
+        android:id="@+id/home" />
+</menu>
